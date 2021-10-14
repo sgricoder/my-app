@@ -5,6 +5,7 @@ import './App.css';
 
 function App() {
   let vari;
+  let vari;
   return (
     <div className="App">
       <header className="App-header">
